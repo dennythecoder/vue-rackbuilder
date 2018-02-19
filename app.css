@@ -1,0 +1,52 @@
+
+
+/*
+.button{
+
+    background-color:#08b;
+    color:white;
+    font-family:calibri;
+    font-weight:bold;
+    border-radius:10px;
+    width:80px;
+    height:20px;
+    padding-bottom:4px;
+    padding-top:4px;
+    text-align:center;
+    margin:4px 4px;
+    display:inline-block;
+}
+
+.button:hover{
+    background-color:#19c;
+    cursor:pointer;
+}
+
+.button[disabled]{
+    background-color:gray;
+    cursor:not-allowed;
+}*/
+
+.ribbon-container{
+    margin-top:10px;
+}
+
+.pure-menu-item{
+    height:5%;
+}
+.ribbon{
+    display:inline-block;
+}
+.row{
+    display:block;
+}
+
+.ribbon-item:hover{
+    background-color:#eee;
+    cursor:pointer;
+}
+
+.ribbon-in-rack:hover{
+        display:inline-block;
+    cursor:pointer;
+}
